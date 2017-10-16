@@ -1,0 +1,2 @@
+include ':myapplication'
+include 'desktop', 'android', 'ios', 'html', 'core'

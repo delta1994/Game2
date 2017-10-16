@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ga1">
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+    </string-array>
+
+    <string-array name="ga2">
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+    </string-array>
+
+    <string-array name="ga3">
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+    </string-array>
+
+    <string-array name="ga4">
+        <item> 13 </item>
+        <item> 14 </item>
+        <item> 15 </item>
+        <item> 12 </item>
+    </string-array>
+
+    <string-array name="ga5">
+        <item> 32 </item>
+        <item> 46 </item>
+        <item> 29 </item>
+        <item> 6 </item>
+    </string-array>
+
+    <string-array name="ga6">
+        <item> 33 </item>
+        <item> 45 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+    </string-array>
+
+    <string-array name="ga7">
+        <item> 73 </item>
+        <item> 44 </item>
+        <item> 74 </item>
+        <item> 95 </item>
+    </string-array>
+
+    <string-array name="ga8">
+        <item> 30 </item>
+        <item> 41 </item>
+        <item> 52 </item>
+        <item> 42 </item>
+    </string-array>
+
+    <string-array name="ga9">
+        <item> 32 </item>
+        <item> 46</item>
+        <item> 53 </item>
+        <item> not Answer </item>
+    </string-array>
+
+    <string-array name="ga10">
+        <item> 31 </item>
+        <item> 44 </item>
+        <item> 5 </item>
+        <item> not Answer </item>
+    </string-array>
+
+
+</resources>
